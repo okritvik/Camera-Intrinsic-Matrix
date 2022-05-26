@@ -2,7 +2,7 @@
 Part of Mid - Term Exam - ENPM 673 - Perception for Autonomous Robots
 
 ## Required Libraries:  
-* Numpy
+* NumPy
 
 ## Pipeline: 
 <p align="center">
